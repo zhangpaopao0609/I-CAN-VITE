@@ -13,7 +13,7 @@ import CodeSanBox from "./components/CodeSanBox.vue";
       data-aos-duration="1000"
     >
       <CodeSanBox
-        src="https://codesandbox.io/embed/serene-pine-de8u84?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&initialpath=01-dynamic-import-can%2Findex.html&module=%2F01-dynamic-import-can%2Findex.html&theme=dark"
+        src="https://codesandbox.io/embed/01-esm-can-nmkwpg?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&theme=dark"
       />
     </div>
   </div>
@@ -26,7 +26,7 @@ import CodeSanBox from "./components/CodeSanBox.vue";
       data-aos-duration="1000"
     >
       <CodeSanBox
-        src="https://codesandbox.io/embed/serene-pine-de8u84?autoresize=1&fontsize=14&hidenavigation=1&initialpath=%2F02-dynamic-import-cannot%2F01-module-cannot%2Findex.html&module=%2F02-dynamic-import-cannot%2F01-module-cannot%2Findex.html&theme=dark"
+        src="https://codesandbox.io/embed/02-esm-cannot-module-q8i240?autoresize=1&fontsize=14&hidenavigation=1&theme=dark"
       />
     </div>
     <div class="text" data-aos="fade-left">111</div>
@@ -41,7 +41,7 @@ import CodeSanBox from "./components/CodeSanBox.vue";
       data-aos-duration="1000"
     >
       <CodeSanBox
-        src="https://codesandbox.io/embed/serene-pine-de8u84?autoresize=1&fontsize=14&hidenavigation=1&initialpath=%2F02-dynamic-import-cannot%2F02-only-js%2Findex.html&module=%2F02-dynamic-import-cannot%2F02-only-js%2Findex.html&theme=dark"
+        src="https://codesandbox.io/embed/02-esm-cannot-only-js-56bcdr?autoresize=1&fontsize=14&hidenavigation=1&theme=dark"
       />
 
       <CodeSanBox
