@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
+    "element-plus": "^2.1.9",
+    "normalize.css": "^8.0.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {
