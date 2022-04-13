@@ -13,8 +13,7 @@ import CodeSanBox from "./components/CodeSanBox.vue";
       data-aos-duration="1000"
     >
       <CodeSanBox
-        src="https://codesandbox.io/embed/summer-breeze-5bb4y5?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&expanddevtools=1"
-        title="01-demo-dynamic-import"
+        src="https://codesandbox.io/embed/serene-pine-de8u84?autoresize=1&expanddevtools=1&fontsize=14&hidenavigation=1&initialpath=01-dynamic-import-can%2Findex.html&module=%2F01-dynamic-import-can%2Findex.html&theme=dark"
       />
     </div>
   </div>
@@ -27,8 +26,7 @@ import CodeSanBox from "./components/CodeSanBox.vue";
       data-aos-duration="1000"
     >
       <CodeSanBox
-        src="https://codesandbox.io/embed/02-demo-dynamic-import-cannot-n3p72k?autoresize=1&fontsize=14&hidenavigation=1&initialpath=%2F01-module-cannot%2Findex.html&theme=dark&expanddevtools=1"
-        title="02-demo-dynamic-import-cannot"
+        src="https://codesandbox.io/embed/serene-pine-de8u84?autoresize=1&fontsize=14&hidenavigation=1&initialpath=%2F02-dynamic-import-cannot%2F01-module-cannot%2Findex.html&module=%2F02-dynamic-import-cannot%2F01-module-cannot%2Findex.html&theme=dark"
       />
     </div>
     <div class="text" data-aos="fade-left">111</div>
@@ -43,9 +41,14 @@ import CodeSanBox from "./components/CodeSanBox.vue";
       data-aos-duration="1000"
     >
       <CodeSanBox
-        src="https://codesandbox.io/embed/02-demo-dynamic-import-cannot-n3p72k?autoresize=1&fontsize=14&hidenavigation=1&initialpath=%2F02-css-cannot%2Findex.html&theme=dark&expanddevtools=1"
-        title="02-demo-dynamic-import-cannot"
+        src="https://codesandbox.io/embed/serene-pine-de8u84?autoresize=1&fontsize=14&hidenavigation=1&initialpath=%2F02-dynamic-import-cannot%2F02-only-js%2Findex.html&module=%2F02-dynamic-import-cannot%2F02-only-js%2Findex.html&theme=dark"
       />
+
+      <CodeSanBox
+        src="https://codesandbox.io/embed/i-can-vite-de8u84?fontsize=14&hidenavigation=1&module=%2F03-mini-vite%2Fapp.js&theme=dark"
+      />
+
+      
     </div>
   </div>
 </template>
