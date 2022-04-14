@@ -7,7 +7,10 @@ import "element-plus/dist/index.css";
 import "aos/dist/aos.css";
 import "normalize.css";
 
-AOS.init();
+AOS.init({
+  once: true,
+  easing: "ease-in-out",
+});
 
 const app = createApp(App);
 app.use(ElementPlus);
