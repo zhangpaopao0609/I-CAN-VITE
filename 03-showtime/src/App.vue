@@ -16,7 +16,7 @@ import Thanks from "./views/Thanks/index.vue";
     <ViteVite />
     <ItIsTime />
     <More />
-    <!-- <Thanks /> -->
+    <Thanks />
   </section>
 </template>
 
