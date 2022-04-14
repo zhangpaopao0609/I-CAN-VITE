@@ -11,12 +11,12 @@ import Thanks from "./views/Thanks/index.vue";
 <template>
   <section class="container">
     <Welcome />
-    <Start />
+    <!-- <Start />
     <BundleHistory />
     <ViteVite />
     <ItIsTime />
     <More />
-    <Thanks />
+    <Thanks /> -->
   </section>
 </template>
 

@@ -1,6 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@types/aos': ^3.0.4
   '@vitejs/plugin-vue': ^2.3.0
   aos: ^2.3.4
   element-plus: ^2.1.9
@@ -18,6 +19,7 @@ dependencies:
   vue: 3.2.32
 
 devDependencies:
+  '@types/aos': 3.0.4
   '@vitejs/plugin-vue': 2.3.1_vite@2.9.1+vue@3.2.32
   sass: 1.50.0
   typescript: 4.6.3
@@ -86,6 +88,10 @@ packages:
   /@popperjs/core/2.11.5:
     resolution: {integrity: sha512-9X2obfABZuDVLCgPK9aX0a/x4jaOEweTTWE2+9sr0Qqqevj2Uv5XorvusThmc9XGYpS9yI+fhh8RTafBtGposw==}
     dev: false
+
+  /@types/aos/3.0.4:
+    resolution: {integrity: sha512-mna6Jd6bdK1NpwarLopGvXOgUoCfj0470IwLxuVOFDElTGI0JTd7xSGQ0AjbAEnHErC/b3fA9t2uB3IXVKmckA==}
+    dev: true
 
   /@types/lodash-es/4.17.6:
     resolution: {integrity: sha512-R+zTeVUKDdfoRxpAryaQNRKk3105Rrgx2CFRClIgRGaqDTdjsm8h6IYA8ir584W3ePzkZfst5xIgDwYrlh9HLg==}
