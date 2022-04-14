@@ -28,19 +28,25 @@ import Thanks from "./views/Thanks/index.vue";
 .oneScreen {
   margin-top: 20vh;
   height: 80vh;
+  line-height: 24px;
+}
+
+.oneScreenNoMargin {
+  height: 100vh;
 }
 
 .left-second-title {
   text-align: left;
-  margin-left: 100px;
+  margin-bottom: 50px;
 }
 
 .right-second-title {
   text-align: right;
-  margin-right: 100px;
+  margin-bottom: 50px;
 }
 
 .ps {
+  font-size: 14px;
   color: #999;
 }
 
@@ -48,13 +54,10 @@ import Thanks from "./views/Thanks/index.vue";
   cursor: pointer;
 }
 
-.twocolum-layout {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-
-  .code {
-    width: 40%;
-  }
+.first-title {
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 100px;
+  letter-spacing: 10px;
 }
 </style>

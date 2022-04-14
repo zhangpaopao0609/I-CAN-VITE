@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { ref } from "vue";
-import YYX01 from "../../assets/yyx-01.png";
-import YYX03 from "../../assets/yyx-03.png";
-import Vite02 from "../../assets/vite-02.png";
+import YYX01 from "@assets/yyx-01.png";
+import YYX03 from "@assets/yyx-03.png";
+import Vite02 from "@assets/vite-02.png";
 
 const yyx01Visible = ref(false);
 const handleYyx01Visible = () => {
