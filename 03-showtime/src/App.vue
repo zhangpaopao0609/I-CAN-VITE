@@ -11,9 +11,9 @@ import Thanks from "./views/Thanks/index.vue";
 <template>
   <section class="container">
     <Welcome />
-    <!-- <Start />
+    <Start />
     <BundleHistory />
-    <ViteVite />
+    <!-- <ViteVite />
     <ItIsTime />
     <More />
     <Thanks /> -->
@@ -21,8 +21,13 @@ import Thanks from "./views/Thanks/index.vue";
 </template>
 
 <style lang="scss">
+#app {
+  font-size: 18px;
+}
+
 .oneScreen {
-  height: 100vh;
+  margin-top: 20vh;
+  height: 80vh;
 }
 
 .left-second-title {
@@ -37,6 +42,10 @@ import Thanks from "./views/Thanks/index.vue";
 
 .ps {
   color: #999;
+}
+
+.cursor {
+  cursor: pointer;
 }
 
 .twocolum-layout {

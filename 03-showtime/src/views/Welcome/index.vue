@@ -8,8 +8,8 @@
       <div class="hobby">喜欢去探究那些奇妙的东西</div>
     </div>
     <div class="title">
-      <div class="first">解密 Vite</div>
-      <div class="second">自己手写一个 Vite</div>
+      <div class="first">解密 vite</div>
+      <div class="second">自己手写一个 vite</div>
     </div>
   </div>
 </template>

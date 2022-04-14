@@ -8,7 +8,7 @@ import "aos/dist/aos.css";
 import "normalize.css";
 
 AOS.init({
-  once: true,
+  once: false,
   easing: "ease-in-out",
 });
 
