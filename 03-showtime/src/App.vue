@@ -15,7 +15,7 @@ import Thanks from "./views/Thanks/index.vue";
     <BundleHistory />
     <ViteVite />
     <ItIsTime />
-    <!-- <More /> -->
+    <More />
     <!-- <Thanks /> -->
   </section>
 </template>
