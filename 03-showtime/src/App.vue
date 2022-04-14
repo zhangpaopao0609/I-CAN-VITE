@@ -13,8 +13,8 @@ import Thanks from "./views/Thanks/index.vue";
     <Welcome />
     <Start />
     <BundleHistory />
-    <!-- <ViteVite />
-    <ItIsTime />
+    <ViteVite />
+    <!-- <ItIsTime />
     <More />
     <Thanks /> -->
   </section>
@@ -27,7 +27,7 @@ import Thanks from "./views/Thanks/index.vue";
 
 .oneScreen {
   margin-top: 20vh;
-  height: 80vh;
+  min-height: 80vh;
   line-height: 24px;
 }
 
@@ -59,5 +59,9 @@ import Thanks from "./views/Thanks/index.vue";
   text-align: center;
   margin-bottom: 100px;
   letter-spacing: 10px;
+}
+
+.code {
+  margin: 30px 0;
 }
 </style>

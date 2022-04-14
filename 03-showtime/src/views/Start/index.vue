@@ -11,7 +11,7 @@ const handleYyx01Visible = () => {
 </script>
 
 <template>
-  <el-row class="oneScreen start" :gutter="140">
+  <el-row class="oneScreen start">
     <el-col :span="10" :offset="1" data-aos="fade-right" data-aos-delay="500">
       <h3>
         约莫 20 年 9 月份开始了解到 vite，我就试着去尝尝鲜，给了我两个感受
@@ -26,10 +26,11 @@ const handleYyx01Visible = () => {
     <el-col
       v-if="yyx01Visible"
       :span="10"
+      :offset="1"
       data-aos="fade-left"
       data-aos-delay="500"
     >
-      <el-image style="transform: scale(1.4)" :src="YYX01" />
+      <el-image :src="YYX01" />
     </el-col>
   </el-row>
 
