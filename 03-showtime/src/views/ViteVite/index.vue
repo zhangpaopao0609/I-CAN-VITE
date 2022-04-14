@@ -82,7 +82,7 @@ const showESMImport = () => {
       </el-col>
     </el-row>
 
-    <el-row style="margin-top: 20vh" :gutter="60">
+    <el-row class="oneScreen" style="margin-top: 20vh" :gutter="60">
       <el-col :span="8">
         <el-image data-aos="fade-left" data-aos-delay="500" :src="Vite02" />
       </el-col>
